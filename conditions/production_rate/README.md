@@ -19,7 +19,7 @@ The following table shows how speed influences the success rate:
  - 1 to 4: 100% success rate.
  - 5 to 8: 90% success rate.
  - 9: 80% success rate.
- - 10: 77% success rate.
+ - 10: 75% success rate.
 
  You have one task:
 
