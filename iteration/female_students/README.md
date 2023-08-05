@@ -9,3 +9,5 @@ Right now our company is actively seeking female applicants to fill a role.
 You will receive an array of hashes with the infos of all candidates.
 
 Create a method that returns only female applicants for this position.
+
+Don't forget to rake to take some ideas on how to solve this. ;)
