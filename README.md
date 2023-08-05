@@ -18,6 +18,4 @@ So it is, in the end, up to you. Okay? You need to have initiative. I've built t
 
 If you're okay with that, then let's start! Arm yourself with **PATIENCE**, **FOCUS** and **CONFIDENCE**, it's all that you need to learn how to code.
 
-Important disclaimer: if you get stuck at one exercise, **DO NOT SKIP IT**. Send me messages on Slack and I'll help you."
-
-Let's hop into the `practicing-ruby-out` folder!
+Important disclaimer: if you get stuck in an exercise, **DO NOT SKIP IT**. Send me messages on Slack and I'll help you."
